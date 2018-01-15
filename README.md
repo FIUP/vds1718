@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/mzanella/vds1718.svg?branch=master)](https://travis-ci.org/mzanella/vds1718)
 
-Repo per gli esercizi di Verifica del Software a.a.17/18
+Repo per gli esercizi della prima parte del corsi di Verifica del Software, A.A. 17/18
 
 ---
 
